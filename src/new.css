@@ -48,6 +48,7 @@
     transform: translateY(-10px);
 }
 
+
 .modal{
     z-index: 3;
     position: fixed;
